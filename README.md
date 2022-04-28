@@ -6,22 +6,33 @@ Part 1: Yelp Dataset Profiling and Understanding
 
 1. Profile the data by finding the total number of records for each of the tables below:
 
-``` SELECT COUNT(*) FROM table_name 
+``` sql
+SELECT COUNT(*) FROM table_name 
 ```
 
 I didn’t want to write every query to provide a cleaner report. You’ll see answers below for the question 1.
 	
-i. Attribute table = 10000
-ii. Business table = 10000
-iii. Category table = 10000
-iv. Checkin table = 10000
-v. elite_years table = 10000
-vi. friend table = 10000
-vii. hours table = 10000
-viii. photo table = 10000
-ix. review table = 10000
-x. tip table = 10000
-xi. user table = 10000
+	i. Attribute table = 10000
+
+	ii. Business table = 10000
+
+	iii. Category table = 10000
+
+	iv. Checkin table = 10000
+
+	v. elite_years table = 10000
+
+	vi. friend table = 10000
+
+	vii. hours table = 10000
+
+	viii. photo table = 10000
+
+	ix. review table = 10000
+
+	x. tip table = 10000
+
+	xi. user table = 10000
 	
 
 
